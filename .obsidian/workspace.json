@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "4baa12e904015b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20f99767d049aa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ab4a1222a8527c2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关于本库.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89aa7a7d8e03a7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e16fe0a9ad2f57a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295ecf341d5becba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6120d8cb07a46aed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "409cfdb35f2302ab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a71c97675204a6c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7233b87421207ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c50ba9345fa594d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "关于本库.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46994b2bd1c0a867",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "关于本库.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "982afc110d50a493",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e66b4fda75a407a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "关于本库.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7ab4a1222a8527c2",
+  "lastOpenFiles": []
+}

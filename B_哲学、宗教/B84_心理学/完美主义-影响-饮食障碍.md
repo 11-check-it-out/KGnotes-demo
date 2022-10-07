@@ -1,0 +1,9 @@
+---
+UID: 20220504203049
+alias: []
+Type: Relation
+Category: 
+tags: ["#repetition"]
+---
+
+「许多研究发现个体的完美主义与抑郁、焦虑、躯体障碍、饮食障碍、自杀意念等多种心理健康问题有着密切的关系[7-9] 」 [@wang2013fumukongzhiy, p. 812]

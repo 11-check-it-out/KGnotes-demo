@@ -1,0 +1,11 @@
+---
+UID: 20210907110001
+alias: [心流体验, flow, flow experience]
+Category: 
+tags: ["#review"]
+---
+
+
+# 构成
+
+心流可分成认知心流和情感心流 [@sanjamsai2018flow, p. 175]。

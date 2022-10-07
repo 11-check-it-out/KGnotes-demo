@@ -1,0 +1,9 @@
+---
+UID: 20220221195109
+alias: []
+Type: Relation
+Category: 
+tags: ["#review"]
+---
+
+相比非社交媒体使用者，社交媒体使用者拥有更高水平的焦虑(Farahani, Kazemi, Aghamohamadi, Bakhtiarvand, & Ansari, 2011) [@chai2018cuoshikongju, p. 530]
