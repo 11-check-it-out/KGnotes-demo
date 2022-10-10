@@ -1,4 +1,5 @@
 {
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
