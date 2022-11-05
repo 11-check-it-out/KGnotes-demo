@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -131,19 +131,19 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
-  "ribbon": {
-    "mostRecentAction": ""
+    "width": 300
   },
   "active": "7ab4a1222a8527c2",
   "lastOpenFiles": [
-    "未命名.md",
-    "README.md"
+    "B_哲学、宗教/属性（哲学）.md",
+    "README.md",
+    "T_工业技术/属性（HTML）.md",
+    "B_哲学、宗教/B84_心理学/父母控制.md",
+    "未命名.md"
   ]
 }
