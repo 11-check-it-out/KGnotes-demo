@@ -1,4 +1,4 @@
-本库为 [KG 笔记法](https://forum-zh.obsidian.md/t/topic/2059)（Knowledge Graph Notes）的示例库。本库将说明 KG 笔记法的诞生以及基本使用。体验完整功能，需要配合 [path-finder](https://github.com/jerrywcy/obsidian-path-finder) 插件使用（本示例库已内置）。
+本库为 [KG 笔记法](https://forum-zh.obsidian.md/t/topic/2059)（Knowledge Graph Notes）的示例库。本库将说明 KG 笔记法的诞生以及基本使用。目前我已使用该方法搭建了百万字级的个人知识库。体验完整功能，需要配合 [path-finder](https://github.com/jerrywcy/obsidian-path-finder) 插件使用（本示例库已内置）。
 
 # 一、简介
 
@@ -169,4 +169,6 @@ KG 法的另一特征就是将标题作为语义化的检索符号，结合知�
 
 示例到这里就结束了。其实将 Obsidian 用于知识管理和知识输出并不是门槛极高的事，并不需要我们把插件商店的六百多个插件研究透彻，关键在于我们是否真的去记录和管理了我们的知识。
 
-根据以往学员的反馈，本方法平均练习记录几十篇笔记后即可上手。如果在使用中遇到了疑惑，或是想将方法应用到自己所从事的领域，欢迎通过[Obsidian 中文论坛](https://forum-zh.obsidian.md/u/ryooo/summary)、[知乎](https://www.zhihu.com/people/rao-yao-47-68)或 [邮箱](kgnotes@163.com) 联系我，我会和你一同探索。
+根据以往学员的反馈，本方法平均练习记录几十篇笔记后即可上手。如果在使用中遇到了疑惑，或是想将方法应用到自己所从事的领域，欢迎通过 [Obsidian 中文论坛](https://forum-zh.obsidian.md/u/ryooo/summary)、[知乎](https://www.zhihu.com/people/rao-yao-47-68)或 [邮箱](kgnotes@163.com) 联系我，我会和你一同探索。
+
+P.S. 最近建了个微信群，有兴趣的朋友可以私信我加入。
