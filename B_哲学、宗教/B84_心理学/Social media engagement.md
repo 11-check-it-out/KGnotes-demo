@@ -1,7 +1,7 @@
 ---
-UID: 20210628161233
+uid: 20210628161233
 alias: [SME, 社交媒体使用, SNS use, Social network intensity]
-Type: Concept
+type: concept
 Category: 
 tags: ["#review"]
 sr-due: 2022-04-29

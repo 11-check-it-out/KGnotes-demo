@@ -1,7 +1,7 @@
 ---
-UID: 20221105230738
+uid: 20221105230738
 alias: [属性]
-Type: Concept
+type: concept
 Category: 
 tags: ["#repetition"]
 ---

@@ -1,5 +1,5 @@
 ---
-UID: 20210720094824
+uid: 20210720094824
 alias: [Regulatory focus, 调节聚焦理论, 调节聚焦]
 Category: 
 tags: ["#review"]

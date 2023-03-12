@@ -1,7 +1,7 @@
 ---
-UID: 20220221191345
+uid: 20220221191345
 alias: []
-Type: Relation
+type: relation
 Category: 
 tags: ["#review"]
 ---
